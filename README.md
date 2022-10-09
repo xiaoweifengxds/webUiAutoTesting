@@ -1,0 +1,2 @@
+# webUiAutoTesting
+采用PageBoject模式，通过Unittest单元测试框架集成用例，带有自动截图生成测试报告功能，并且能自动将报告发送到指定邮箱
